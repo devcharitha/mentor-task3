@@ -1,0 +1,10 @@
+/* styling sheet */
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: darkgreen;
+}
+.highlight{
+    border: 2px solid blue;
+}
