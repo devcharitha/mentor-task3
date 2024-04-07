@@ -2,6 +2,7 @@
 
 function greet(name, myFunction) {
     console.log('Hello world');
+    //function call-represents call back function
     myFunction(name);
 }
 function sayName(name) {
